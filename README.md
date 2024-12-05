@@ -1,7 +1,3 @@
-Here’s the revised and formatted version of your **Document Search Bot** documentation, suitable for a README file:
-
----
-
 # **Document Search Bot**
 
 ## **Objective**
